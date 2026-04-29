@@ -1,1 +1,1 @@
-Đồ án tập trung vào việc nghiên cứu và xây dựng công cụ phát hiện các gói thư viện độc hại trên hệ sinh thái Python (PyPI). Hệ thống sử dụng kết hợp giữa Phân tích tĩnh (Static Analysis) và Phân tích hành vi (Behavioral Analysis) để nhận diện các kỹ thuật tấn công phổ biến như Typosquatting, Dependency Confusion, và Malware Injection.
+Đồ án tập trung vào việc nghiên cứu và xây dựng công cụ phát hiện các gói thư viện độc hại trên hệ sinh thái Python (PyPI). 
